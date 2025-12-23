@@ -1,4 +1,5 @@
 # White papers and documents
+
 ## Application white papers
 - [Mountain Glaciers and Snow Hydrology (4/15/2023)](https://assets.science.nasa.gov/content/dam/science/missions/nisar/nisar-jpl/pdf/SnowHydrology_Final.pdf)  
 - [Earthquake\! Tracking Location and Impact from Space (9/2/2022)](https://assets.science.nasa.gov/content/dam/science/missions/nisar/nisar-jpl/pdf/Earthquake%20NISAR_WhitePaper_final.pdf)
