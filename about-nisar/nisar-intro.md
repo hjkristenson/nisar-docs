@@ -23,7 +23,7 @@ Refer to NASA's [NISAR Mission](https://science.nasa.gov/mission/nisar/) website
 
 ### NISAR Science Objectives
 
-The [NISAR Mission Science Users' Handbook (2025)](@nisarMissionHandbook2025) defines the key scientific objectives as follows:
+The NISAR Mission Science Users' Handbook [@nisarMissionHandbook2025] defines the key scientific objectives as follows:
 
 *NISAR addresses the needs of Solid Earth, Ecosystems, Cryospheric, and Soil Moisture science disciplines, with a specific focus on the following key scientific objectives to:*
 
@@ -34,7 +34,7 @@ The [NISAR Mission Science Users' Handbook (2025)](@nisarMissionHandbook2025) de
 
 ### NISAR Mission Science Users' Handbook
 
-The [NASA-ISRO SAR (NISAR) Mission Science Users' Handbook](@nisarMissionHandbook2025) is a very valuable resource. It is a PDF publication that can be downloaded or referenced online.
+The NASA-ISRO SAR (NISAR) Mission Science Users' Handbook [@nisarMissionHandbook2025] is a very valuable resource. It is a PDF publication that can be downloaded or referenced online.
 
 The second edition of this handbook, published in 2025, has superseded the previous edition, published in 2019, and should be used instead of the older publication.
 
@@ -64,7 +64,7 @@ ASF will utilize NASA's [Earthdata Cloud](https://www.earthdata.nasa.gov/about/e
 
 NISAR was designed to deliver global coverage at full resolution and with polarimetric diversity. The technical innovation that allows this performance is the scan-on-receive *SweepSAR* design, conceived and refined collaboratively by NASA and the German Space Agency (DLR).
 
-A more detailed description of the NISAR instrument design is in section 4.7 of the @nisarMissionHandbook2025.
+A more detailed description of the NISAR instrument design is in section 4.7 of the (@nisarMissionHandbook2025).
 
 ### Bands
 
