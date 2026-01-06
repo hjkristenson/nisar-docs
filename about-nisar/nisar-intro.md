@@ -62,7 +62,15 @@ ASF will utilize NASA's [Earthdata Cloud](https://www.earthdata.nasa.gov/about/e
 
 ## Instrumentation
 
-NISAR was designed to deliver global coverage at full resolution and with polarimetric diversity. The technical innovation that allows this performance is the scan-on-receive *SweepSAR* design, conceived and refined collaboratively by NASA and the German Space Agency (DLR).
+NISAR was designed to deliver global coverage at full resolution and with polarimetric diversity. The technical innovation that allows this performance is the scan-on-receive SweepSAR design, conceived and refined collaboratively by NASA and the German Space Agency (DLR).
+
+```{figure} ../assets/sweep-sar.png
+:label: sweep-sar
+:alt: Figure illustrating the SweepSAR approach to imaging
+:align: center
+
+SweepSAR technique, which allows full-resolution, multipolarimetric observations across an extended swath (> 240 km). By transmitting energy across the full feed aperture, a wide swath is illuminated on the ground. Each patch element on  the feed can receive independently, allowing localization in time, hence space, of the return echo scattered from the ground. *Note: Transmit and scanning receive events overlap in time and space. Alongtrack offset shown is for clarity of presentation only*. Credit: [NISAR Mission Handbook](https://doi.org/10.48577/jpl.UD4HV3) [pg. 44 @nisarMissionHandbook2025]
+```
 
 A more detailed description of the NISAR instrument design is in section 4.7 of the [NISAR Mission Handbook](https://doi.org/10.48577/jpl.UD4HV3) [@nisarMissionHandbook2025].
 
